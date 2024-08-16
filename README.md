@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prozycal" target="blank"><img src="https://img.shields.io/twitter/follow/prozycal?logo=twitter&style=for-the-badge" alt="prozycal" /></a> </p>
 
-- 🔭 I’m currently working on [Web Penghitaman Waifu](https://github.com/Prozycal/Web-Penghitaman-Waifu)
+- 🔭 I’m currently working on -
 
 - 🌱 I’m currently learning **PHP and React**
 
